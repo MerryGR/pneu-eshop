@@ -1,0 +1,30 @@
+{
+  "name": "riso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "helmet": "^5.0.2",
+    "https": "^1.0.0",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "stripe": "^8.203.0"
+  }
+}
