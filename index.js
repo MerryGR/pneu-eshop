@@ -13,7 +13,7 @@ const cookieParser = require('cookie-parser');
 const session = require('express-session');
 var FormData = require('form-data');
 
-const apikey = "Ur.#m=J7<fbD[L==C<*8q@,/KX,6gfTPp;d%";
+const apikey = "..,";
 const saltRounds = 10;
 
 var app = express();
